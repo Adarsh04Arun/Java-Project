@@ -1,3 +1,5 @@
+
+see in code mode
 Follow the Steps to run the Chat Application (You can either use Vs Code or IntelliJ):
 
 Step 1:[1st Terminal]
